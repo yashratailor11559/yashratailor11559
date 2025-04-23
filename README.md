@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Yashra Tailor
 
-<!--
-**yashratailor11559/yashratailor11559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 A Data Analyst passionate about extracting insights from data  
+💻 Skilled in Python, SQL, Power BI, and Excel  
+📊 Creator of data-driven dashboards and analysis projects  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages & Tools**: Python, SQL, Power BI, Excel  
+- **Soft Skills**: Problem Solving, Communication, Attention to Detail  
+
+
+## 📂 Featured Projects
+
+### 📊 [Billionaire Analysis Project](https://github.com/yashratailor11559)  
+Power BI dashboard + SQL analysis to uncover global billionaire trends.
+
+### 🧠 Ethical Considerations in Data Science  
+Case study exploring ethics in AI: privacy, bias, and transparency.
+
+
+
+## 📫 Contact Me
+
+- 📧 yashratailor11559@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yashratailor11559)  
+- 🌐 [Portfolio](#coming-soon) *(will update once you make one!)*
+
+
+
+
+_“Data is the new oil — I help refine it.”_
+
